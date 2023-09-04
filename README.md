@@ -4,7 +4,8 @@
 ## Description
 4,788 Images Human Facial Skin Defects Data. The data includes the following five types of facial skin defects: acne, acne marks, stains, wrinkles, and dark circles. This data can be used for tasks such as skin defects detection.
 
-For more details, please refer to the link: https://bit.ly/3SfuKMl
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1052?source=Github
+
 
 ## Data size
 4,788 images： acne(533 images), acne marks(731 images), stains (2,010 images), wrinkles(752 images), and dark circles(994 images)
